@@ -20,4 +20,5 @@ Here are my LeetCode codes
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AnirudhGeek/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AnirudhGeek/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
