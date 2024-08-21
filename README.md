@@ -16,9 +16,14 @@ Here are my LeetCode codes
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnirudhGeek/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AnirudhGeek/DSA/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AnirudhGeek/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnirudhGeek/DSA/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AnirudhGeek/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
