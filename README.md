@@ -8,6 +8,7 @@ Here are my LeetCode codes
 | ------- |
 | [0001-two-sum](https://github.com/AnirudhGeek/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnirudhGeek/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AnirudhGeek/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AnirudhGeek/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnirudhGeek/DSA/tree/master/0283-move-zeroes) |
@@ -21,6 +22,7 @@ Here are my LeetCode codes
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnirudhGeek/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AnirudhGeek/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AnirudhGeek/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AnirudhGeek/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnirudhGeek/DSA/tree/master/0283-move-zeroes) |
@@ -46,5 +48,6 @@ Here are my LeetCode codes
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnirudhGeek/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
