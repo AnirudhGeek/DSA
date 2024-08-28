@@ -50,4 +50,8 @@ Here are my LeetCode codes
 | ------- |
 | [0075-sort-colors](https://github.com/AnirudhGeek/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/AnirudhGeek/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
