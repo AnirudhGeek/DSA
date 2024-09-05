@@ -13,6 +13,7 @@ Here are my LeetCode codes
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnirudhGeek/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AnirudhGeek/DSA/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/AnirudhGeek/DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Here are my LeetCode codes
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/AnirudhGeek/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
