@@ -36,6 +36,7 @@ Here are my LeetCode codes
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnirudhGeek/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AnirudhGeek/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnirudhGeek/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AnirudhGeek/DSA/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ Here are my LeetCode codes
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnirudhGeek/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/AnirudhGeek/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnirudhGeek/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/AnirudhGeek/DSA/tree/master/0206-reverse-linked-list) |
@@ -71,6 +73,7 @@ Here are my LeetCode codes
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnirudhGeek/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AnirudhGeek/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnirudhGeek/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
