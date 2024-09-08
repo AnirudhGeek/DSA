@@ -18,6 +18,7 @@ Here are my LeetCode codes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnirudhGeek/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnirudhGeek/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AnirudhGeek/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnirudhGeek/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ Here are my LeetCode codes
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnirudhGeek/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/AnirudhGeek/DSA/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -80,4 +82,8 @@ Here are my LeetCode codes
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AnirudhGeek/DSA/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnirudhGeek/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
