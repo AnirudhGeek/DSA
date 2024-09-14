@@ -45,6 +45,7 @@ Here are my LeetCode codes
 | [0002-add-two-numbers](https://github.com/AnirudhGeek/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AnirudhGeek/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnirudhGeek/DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AnirudhGeek/DSA/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/AnirudhGeek/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
 ## String
@@ -63,6 +64,7 @@ Here are my LeetCode codes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AnirudhGeek/DSA/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
