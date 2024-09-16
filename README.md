@@ -48,6 +48,7 @@ Here are my LeetCode codes
 | [0009-palindrome-number](https://github.com/AnirudhGeek/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnirudhGeek/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AnirudhGeek/DSA/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/AnirudhGeek/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AnirudhGeek/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
 ## String
@@ -61,6 +62,7 @@ Here are my LeetCode codes
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnirudhGeek/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnirudhGeek/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AnirudhGeek/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnirudhGeek/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/AnirudhGeek/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/AnirudhGeek/DSA/tree/master/0792-binary-search) |
